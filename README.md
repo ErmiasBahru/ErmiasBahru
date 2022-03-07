@@ -25,14 +25,16 @@ I am a self-taught software developer, still working on Python. I'm hoping to bu
 
 ### :woman_technologist: About Me :
 
-
-- 👋 Hi, I’m @ErmiasBahru
 - 👀 I’m interested in learning new things especially coding
 - 🌱 I’m currently learning python for ethical hacking
 - 💞️ I’m looking to collaborate on my own company
 - 📫 How to reach me? [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ermias90s)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErmiasBahru&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ermiasbahru&show_icons=true&locale=en&theme=gruvbox" alt="ermiasbahru" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermiasbahru&theme=gruvbox" alt="ermiasbahru" />
+</div>
+
 
 <!---
 ErmiasBahru/ErmiasBahru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
