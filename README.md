@@ -13,11 +13,14 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=ErmiasBahru&style=flat-square&color=blue" alt=""/>
  <h1>
-  hey there
+  Hi,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   I'm Ermias Bahru
 </h1>
+  <img src="https://telegra.ph/file/cecc14c2cf0f76035f5c8.png" />
 </div>
 
+I am a self-taught software developer, still working on Python. I'm hoping to build helpful projects in the future.
 ---
 
 ### :woman_technologist: About Me :
@@ -27,7 +30,7 @@
 - 👀 I’m interested in learning new things especially coding
 - 🌱 I’m currently learning python for ethical hacking
 - 💞️ I’m looking to collaborate on my own company
-- 📫 How to reach me? you can reach me via my gmail address ermiasbahru878@gmail.com.
+- 📫 How to reach me? [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErmiasBahru&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
