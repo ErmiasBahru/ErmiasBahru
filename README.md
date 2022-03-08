@@ -20,14 +20,19 @@
   <img src="https://telegra.ph/file/300379ae017a5b1748a81.png" />
 </div>
 
-I am a self-taught software developer, still working on Python. I'm hoping to build helpful projects in the future.
+<h2 align="center">I am a self-taught software developer, still working on Python. I'm hoping to build helpful projects in the future.</h2>
+
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 - 👀 I’m interested in learning new things especially coding
-- 🌱 I’m currently learning python for ethical hacking
+- 🌱 I’m currently learning software engineering at ALX
 - 📫 How to reach me? [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ermias90s)
+
+---
+
+### :bar_chart: GitHub Status : 
 
  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ermiasbahru&show_icons=true&locale=en&theme=gruvbox" alt="ermiasbahru" />
