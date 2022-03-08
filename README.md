@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
    I'm Ermias Bahru
 </h1>
-  <img src="https://telegra.ph/file/cecc14c2cf0f76035f5c8.png" />
+  <img src="https://telegra.ph/file/300379ae017a5b1748a81.png" />
 </div>
 
 I am a self-taught software developer, still working on Python. I'm hoping to build helpful projects in the future.
@@ -27,7 +27,6 @@ I am a self-taught software developer, still working on Python. I'm hoping to bu
 
 - 👀 I’m interested in learning new things especially coding
 - 🌱 I’m currently learning python for ethical hacking
-- 💞️ I’m looking to collaborate on my own company
 - 📫 How to reach me? [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ermias90s)
 
  <div>
