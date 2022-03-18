@@ -39,7 +39,7 @@
 
 ### Technologies and Tool ⚙️ 🖥
 
-[![Technologies and Tool](https://skillicons.dev/icons?i=figma,flutter,git,linux,nodejs,react,vscode)](https://github.com/ErmiasBahru)
+[![Technologies and Tool](https://skillicons.dev/icons?i=figma,flutter,git,linux,nodejs,react,vscode,vim)](https://github.com/ErmiasBahru)
 
 ---
 
