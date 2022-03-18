@@ -1,3 +1,9 @@
+---
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=14F70E&vCenter=true&width=600&lines=Welcome+To+Ermias's+Github+Profile!)
+
+---
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -45,10 +51,12 @@
 
 ### :bar_chart: GitHub Status : 
 
- <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ermiasbahru&show_icons=true&locale=en&theme=gruvbox" alt="ermiasbahru" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermiasbahru&theme=gruvbox" alt="ermiasbahru" />
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ermiasbahru&show_icons=true&locale=en&theme=gruvbox" alt="ermiasbahru" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermiasbahru&theme=gruvbox" alt="ermiasbahru" width="48%" />
 </div>
+
+---
 
 
 <!---
