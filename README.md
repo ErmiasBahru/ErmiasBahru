@@ -52,8 +52,8 @@
 ### :bar_chart: GitHub Status : 
 
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ermiasbahru&show_icons=true&locale=en&theme=gruvbox" alt="ermiasbahru" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermiasbahru&theme=gruvbox" alt="ermiasbahru" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ermiasbahru&show_icons=true&locale=en&theme=gruvbox" alt="ermiasbahru" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermiasbahru&theme=gruvbox" alt="ermiasbahru" />
 </div>
 
 ---
