@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=ErmiasBahru&style=flat-square&color=blue" alt=""/>
  <h1>
   Hi,
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
    I'm Ermias Bahru
 </h1>
   <img src="https://telegra.ph/file/300379ae017a5b1748a81.png" />
