@@ -1,9 +1,3 @@
----
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=14F70E&vCenter=true&width=600&lines=Welcome+To+Ermias's+Github+Profile!)
-
----
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -23,10 +17,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
    I'm Ermias Bahru
 </h1>
-  <img src="https://telegra.ph/file/300379ae017a5b1748a81.png" />
 </div>
 
-<h2 align="center">I am a self-taught software developer, still working on Python. I'm hoping to build helpful projects in the future.</h2>
+### I am a self-taught software developer, still working on Python. I'm hoping to build helpful projects in the future.
 
 ---
 
@@ -51,10 +44,7 @@
 
 ### :bar_chart: GitHub Status : 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ermiasbahru&show_icons=true&locale=en&theme=gruvbox" alt="ermiasbahru" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ermiasbahru&theme=gruvbox" alt="ermiasbahru" />
-
----
+![Metrics](https://metrics.lecoq.io/ErmiasBahru?template=classic&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Africa%2FAddis_Ababa)
 
 
 <!---
