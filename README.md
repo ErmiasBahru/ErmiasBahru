@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/98729397/179342328-27a8c853-cb31-4ba8-95da-e978a395366c.png" />
   <div id="badges">
   <a href="https://www.linkedin.com/in/ermias-bahru-42a057222">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,33 +19,32 @@
 </h1>
 </div>
 
-### I am a self-taught software developer, still working on Python. I'm hoping to build helpful projects in the future.
+```python
 
----
+class ErmiasB:
 
-### :man_technologist: About Me :
+    def __init__(self):
+        self.username = 'ermiasbahru'
+        self.name = 'Ermias Bahru'
+        self.web = 'https://ermiasbahru.vercel.app/'
+        self.twitter = '@ermias_bahru'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap', 'TailWind'],
+            'backend': ['Python', 'Flask', 'Django', 'NodeJS'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+            'devops': ['Docker', 'Nginx', 'GitHub Actions'],
+            'tools': ['GIT', 'GitHub', 'VScode', 'Linux OS', 'Jupyter notebook']
+        }
+        self.ongoing = ['C#', 'Julia']
 
-- 👀 I’m interested in learning new things especially coding
-- 🌱 I’m currently learning software engineering at ALX
-- 📫 How to reach me - [Telegram](https://t.me/Ermias90s)
+    def __str__(self):
+        return self.name
 
----
 
-### Languages 💻 🌐
-[![Languages](https://skillicons.dev/icons?i=py,c,css,dart,html,js)](https://github.com/ErmiasBahru)
+if __name__ == '__main__':
+    me = ErmiasB()
 
----
-
-### Technologies and Tool ⚙️ 🖥
-
-[![Technologies and Tool](https://skillicons.dev/icons?i=figma,flutter,git,linux,nodejs,react,vscode,vim)](https://github.com/ErmiasBahru)
-
----
-
-### :bar_chart: GitHub Status : 
-
-![Metrics](https://metrics.lecoq.io/ErmiasBahru?template=classic&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Africa%2FAddis_Ababa)
-
+```
 
 <!---
 ErmiasBahru/ErmiasBahru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
