@@ -26,7 +26,7 @@ class ErmiasB:
     def __init__(self):
         self.username = 'ermiasbahru'
         self.name = 'Ermias Bahru'
-        self.web = 'https://ermiasbahru.vercel.app/'
+        self.web = 'https://ermiasbahru.tech/'
         self.twitter = '@ermias_bahru'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap', 'TailWind'],
