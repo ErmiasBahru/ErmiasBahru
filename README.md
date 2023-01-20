@@ -46,6 +46,13 @@ if __name__ == '__main__':
 
 ```
 
+**Expand to view**
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <br>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ErmiasBahru&show_icons=true" />
+</details>
+
 <!---
 ErmiasBahru/ErmiasBahru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
