@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/98729397/179342328-27a8c853-cb31-4ba8-95da-e978a395366c.png" />
   <div id="badges">
-  <a href="https://www.linkedin.com/in/ermias-bahru-42a057222">
+  <a href="https://www.linkedin.com/in/ermias-bahru-42a057222" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/ermias_bahru">
+  <a href="https://www.instagram.com/ermias_bahru" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/ermias_bahru">
+  <a href="https://twitter.com/ermias_bahru" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
