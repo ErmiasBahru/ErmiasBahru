@@ -48,10 +48,17 @@ if __name__ == '__main__':
 
 **Expand to view**
 <details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <summary><b>:zap: GitHub Profile Stats</b></summary>
   <br>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ErmiasBahru&show_icons=true" />
+  
+  ![GitHub Stats Card]
+  
 </details>
+
+<!-- links -->
+
+[github stats card]: https://github-readme-stats.vercel.app/api?username=ermiasbahru
+
 
 <!---
 ErmiasBahru/ErmiasBahru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
