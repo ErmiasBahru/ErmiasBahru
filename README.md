@@ -2,19 +2,27 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ermias-bahru-42a057222">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/ermias_bahru">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/ermias_bahru">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+  <a href="https://app.daily.dev/ermiasb">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/ermiasbahru/ermiasbahru/devcard/devcard.svg"
+    />
   </a>
 </div>
 
 ## I'm Ermias Bahru
 
-Self-taught software engineer with a passion for problem-solving and security. When I'm not coding, you can find me delving into the world of security research and solving CTF challenges. Let's work together to build something great and learn something new!
+Self-taught software developer with a passion for problem-solving and security. When I'm not coding, you can find me delving into the world of security research and solving CTF challenges. Let's work together to build something great and learn something new!
 
 <img src="https://komarev.com/ghpvc/?username=ErmiasBahru&style=flat-square&color=blue" alt="profile view">
 
