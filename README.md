@@ -22,9 +22,13 @@
 
 ## I'm Ermias Bahru
 
-Self-taught software developer with a passion for problem-solving and security. When I'm not coding, you can find me delving into the world of security research and solving CTF challenges. Let's work together to build something great and learn something new!
+Self-taught software developer with a passion for problem-solving and security. When I'm not coding, you can find me delving into the world of security research and solving CTF challenges. I'm also an avid reader of technology-related articles, particularly those that focus on Linux, Python and React.
+
+Let's work together to build something great and learn something new!
 
 <img src="https://komarev.com/ghpvc/?username=ErmiasBahru&style=flat-square&color=blue" alt="profile view">
+
+---
 
 **Expand to view**
 <details>
