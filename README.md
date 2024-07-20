@@ -15,7 +15,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/ermiasbahru/ermiasbahru/devcard/devcard.svg"
+      src="https://api.daily.dev/devcards/v2/AuHmGKbjHmNXEsm0ruP2L.png?r=zy7&type=defaul"
     />
   </a>
 </div>
