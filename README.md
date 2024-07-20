@@ -15,7 +15,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/v2/AuHmGKbjHmNXEsm0ruP2L.png?r=zy7&type=defaul"
+      src="./devcard.png"
     />
   </a>
 </div>
